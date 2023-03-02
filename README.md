@@ -2,7 +2,7 @@
   <a href="https://molecule.sh">
     <img src="./img/rotonai.png" height="180">
   </a>
-  <h3 align="center"><code>@decentdotland/molecule</code></h3>
+  <h3 align="center"><code>@quantum-one-dlt/roton-maxon</code></h3>
   <p align="center">reusable code blocks for EXM contracts</p>
 </p>
 
