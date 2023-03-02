@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://molecule.sh">
-    <img src="./img/molecule.svg" height="180">
+    <img src="./img/rotonai.png" height="180">
   </a>
   <h3 align="center"><code>@decentdotland/molecule</code></h3>
   <p align="center">reusable code blocks for EXM contracts</p>
