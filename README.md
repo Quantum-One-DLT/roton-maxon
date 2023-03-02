@@ -8,12 +8,12 @@
 
 
 ## Synopsis
-Molecule is a developer tooling API for EXM developers that's built on top of the `deterministicFetch` EXM feature. `molecule.sh` is composed of multiple reusable EXM components/codes to facilitate writing EXM functions.
+Roton-maxon is a developer tooling API for EXM developers that's built on top of the `deterministicFetch` EXM feature. `molecule.sh` is composed of multiple reusable EXM components/codes to facilitate writing EXM functions.
 
 ## Build & run
 
 ```console
-git pull https://github.com/decentldotland/molecule.git
+git pull https://github.com/quantum-one-dlt/roton-maxon.git
 
 touch .env 
 
